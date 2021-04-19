@@ -1,0 +1,25 @@
+origin,culture,treatment,tree,1
+int,sub,intsub,14,109.6432194
+int,sub,intsub,17,82.98594925
+int,sub,intsub,19,150.1531724
+int,sub,intsub,25,79.37172716
+int,sub,intsub,29,136.0812772
+int,sub,intsub,30,71.76144865
+int,int,intint,31,62.23825978
+int,int,intint,32,60.66683742
+int,int,intint,35,87.47286368
+int,int,intint,41,68.57972577
+int,int,intint,42,73.38809119
+int,int,intint,46,51.02816876
+sub ,sub,subsub,13,59.67865053
+sub ,sub,subsub,15,52.64807249
+sub ,sub,subsub,16,77.07244839
+sub ,sub,subsub,26,84.80942234
+sub ,sub,subsub,27,72.7478177
+sub ,sub,subsub,28,69.34313166
+sub ,int,subint,33,53.40385289
+sub ,int,subint,34,58.30550447
+sub ,int,subint,36,69.23745186
+sub ,int,subint,38,51.05204074
+sub ,int,subint,40,48.23832556
+sub ,int,subint,48,46.87531179
