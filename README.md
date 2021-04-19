@@ -1,1 +1,1 @@
-# int
+# growth + survival
